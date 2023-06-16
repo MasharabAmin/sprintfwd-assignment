@@ -25,7 +25,7 @@
 * [React-DOM](https://react.dev/reference/react-dom)
 * [React-Router-DOM](https://yarnpkg.com/package/react-router-dom)
 * [uuid](https://yarnpkg.com/package/uuid)
-* [Jest](https://jestjs.io/)
+* [Vitest](https://vitest.dev/)
 
 ## Getting Started
 
